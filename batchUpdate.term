@@ -1,0 +1,20 @@
+rm -rf *
+ls
+dir
+ls
+cd src
+g++ -std=c++17 -O2 src/main.cpp -o batch_sim
+ls
+cd ..
+g++ -std=c++17 -O2 src/main.cpp -o batch_sim
+./batch_sim
+ls
+cmake --version
+mkdir build
+cd build
+cmake ..
+make
+./bin/batch_sim
+ls
+cd ..
+ls

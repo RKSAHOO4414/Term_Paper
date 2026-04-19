@@ -1,0 +1,3 @@
+/home/user/Term_Paper_Project/build/CMakeFiles/batch_sim.dir
+/home/user/Term_Paper_Project/build/CMakeFiles/edit_cache.dir
+/home/user/Term_Paper_Project/build/CMakeFiles/rebuild_cache.dir
